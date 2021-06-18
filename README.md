@@ -10,4 +10,3 @@ You will have an orthogonal triangle input from a file and you need to find the 
 3. You can only walk over NON PRIME NUMBERS.
 4. You have to reach at the end of the pyramid as much as possible.
 5. You have to treat your input as pyramid.
-6. 
